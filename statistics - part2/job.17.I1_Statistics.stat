@@ -1,0 +1,1041 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.64166665
+Tree 0:
+ (MAX (- (COS (COS AV)) (/ (+ AVG7x7 SD9x9)
+     (+ SD3x3 AVG3x3))) (SIN (- (- AVG9x9 AV)
+     (MAX AVG9x9 AVG7x7))))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.74375
+Tree 0:
+ (- (+ (- (* SD3x3 AVG7x7) (* SD3x3 AVG9x9))
+     (MAX (MAX SD7x7 SD7x7) (MIN AVG3x3 SD9x9)))
+     (COS SD9x9))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.74375
+Tree 0:
+ (- (+ (- (* SD3x3 AVG7x7) (* SD3x3 AVG9x9))
+     (MAX (MIN (MAX (- (/ (- AV (* AVG3x3 SD9x9))
+         AVG3x3) SD3x3) AVG7x7) (COS SD3x3)) (MIN
+         AVG3x3 SD9x9))) (COS SD9x9))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.7875
+Tree 0:
+ (- (+ (- (* SD3x3 AVG7x7) (* SD3x3 AVG9x9))
+     (MAX (MAX SD7x7 SD7x7) (MIN AVG3x3 SD9x9)))
+     (MIN (MAX (* AV SD7x7) (MAX SD3x3 SD3x3))
+         AVG7x7))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.91875
+Tree 0:
+ (- (SIN (/ (- AV (* AVG3x3 SD9x9)) AVG3x3))
+     (/ (+ AVG7x7 SD9x9) (+ SD3x3 AVG3x3)))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.93541664
+Tree 0:
+ (- (SIN (/ (- AV (* AVG3x3 SD9x9)) AVG3x3))
+     (/ (MAX (MIN AVG7x7 AV) (SIN SD9x9)) (+ SD3x3
+         AVG3x3)))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.93541664
+Tree 0:
+ (- (SIN (/ (- AV (* AVG3x3 SD9x9)) AVG3x3))
+     (/ (MAX (MIN AVG7x7 AV) (SIN (+ (- (* SD3x3
+         AVG7x7) (* SD3x3 AVG9x9)) (COS (SIN (MIN
+         (+ (/ (* SD3x3 AVG9x9) (/ SD3x3 SD3x3)) (SIN
+             (SIN (COS (- AVG9x9 AVG9x9))))) (COS (* (-
+         AV SD7x7) (/ SD3x3 AVG9x9))))))))) (+ SD3x3
+         AVG3x3)))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.93541664
+Tree 0:
+ (- (SIN (/ (- AV (* AVG3x3 SD9x9)) AVG3x3))
+     (/ (MAX (MIN AVG7x7 AV) (SIN (+ (- (* SD3x3
+         AVG7x7) (* SD3x3 AVG9x9)) (COS (SIN (MIN
+         (+ (/ (* SD3x3 AVG9x9) (/ SD3x3 SD3x3)) (SIN
+             (SIN (COS (- AVG9x9 AVG9x9))))) (COS (* AVG3x3
+         (/ SD3x3 AVG9x9))))))))) (+ SD3x3 AVG3x3)))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.93541664
+Tree 0:
+ (- (SIN (/ (- AV (* AVG3x3 SD9x9)) AVG3x3))
+     (/ (MAX (MIN AVG7x7 AV) (SIN (+ (* SD3x3
+         AVG9x9) (COS (SIN (MIN (+ (/ (* SD3x3 AVG9x9)
+         (/ SD3x3 SD3x3)) (SIN (SIN (COS (- AVG9x9
+         AVG9x9))))) (COS (* AVG3x3 (/ SD3x3 AVG9x9)))))))))
+         (+ SD3x3 AVG3x3)))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9375
+Tree 0:
+ (- (SIN (/ (- AV (/ AVG9x9 AV)) AVG3x3))
+     (/ (MAX (MIN AVG7x7 AV) (SIN (+ (- (* SD3x3
+         AVG7x7) (* SD3x3 AVG9x9)) (COS (SIN (MIN
+         (COS (MAX (MAX (- AVG3x3 AVG7x7) AV) (MIN
+             AVG3x3 SD9x9))) (COS (* (- AV SD7x7) (/ SD3x3
+         AVG9x9))))))))) (+ SD3x3 AVG3x3)))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9375
+Tree 0:
+ (- (SIN (/ (- AV (/ (MAX (MIN AVG7x7 AV)
+     (SIN (COS (MIN SD9x9 SD7x7)))) (+ SD3x3 AVG3x3)))
+     AVG3x3)) (/ (MAX (MIN AVG7x7 AV) (SIN (+
+     (- (* SD3x3 AVG7x7) (* SD3x3 AVG9x9)) (COS
+     (SIN (MIN (+ (/ (* SD3x3 AVG9x9) (/ SD3x3
+         SD3x3)) (MAX (COS SD3x3) (MIN AVG3x3 SD9x9)))
+         (COS (* (- AV SD7x7) (/ SD3x3 AVG9x9)))))))))
+     (+ SD3x3 AVG3x3)))
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9375
+Tree 0:
+ (- (SIN (/ (- AV (COS (- AVG9x9 AVG9x9)))
+     AVG3x3)) (/ (MAX (MIN AVG7x7 AV) (SIN (COS
+     AVG9x9))) (+ SD3x3 AVG3x3)))
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9375
+Tree 0:
+ (- (SIN (/ (- AV (/ AVG9x9 AV)) AVG3x3))
+     (/ (MAX (MIN AVG7x7 AV) (SIN (+ (- AV (*
+         AVG3x3 SD9x9)) (COS (SIN (MIN (COS (MAX (MAX
+         (- AVG3x3 AVG7x7) AV) (MIN AVG3x3 (- AV (*
+         AVG3x3 SD9x9))))) (MIN AVG3x3 AVG9x9)))))))
+         (+ SD3x3 AVG3x3)))
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9375
+Tree 0:
+ (- (SIN (/ (- AV (/ (MAX (MIN AVG7x7 AV)
+     (SIN (COS (MIN SD9x9 SD7x7)))) (+ SD3x3 AVG3x3)))
+     AVG3x3)) (/ (MAX (MIN AVG7x7 AV) (SIN (+
+     (- (* SD3x3 AVG7x7) (* SD3x3 AVG9x9)) (COS
+     (SIN (MIN (+ (* (- AV SD7x7) (- (COS (+ (COS
+         SD7x7) (MIN SD7x7 (/ (- AVG3x3 AVG7x7) (MAX
+         AV AV))))) (MAX AVG9x9 AVG7x7))) (MAX (COS
+         SD3x3) (MIN AVG3x3 SD9x9))) (COS (* (- AV
+         (MIN AVG3x3 AVG9x9)) (/ SD3x3 AVG9x9)))))))))
+     (+ SD3x3 AVG3x3)))
+
+Generation: 14
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9375
+Tree 0:
+ (- (SIN (/ (- AV (SIN (MIN (+ (/ (* SD3x3
+     AV) (/ SD3x3 SD3x3)) (/ SD3x3 AVG9x9)) (COS
+     (* (- AV SD7x7) (/ AVG3x3 (- AV AVG9x9)))))))
+     AVG3x3)) (/ (MAX (MIN AVG7x7 AV) (SIN (/
+     (- AV (* AVG3x3 SD9x9)) AVG3x3))) (+ SD3x3
+     AVG3x3)))
+
+Generation: 15
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9375
+Tree 0:
+ (- (SIN (/ (- AV (SIN (MIN (+ (COS (+ (COS
+     SD7x7) (MIN SD7x7 (* SD3x3 AVG7x7)))) (SIN
+     (SIN (COS (- AVG9x9 AVG9x9))))) (COS (* (-
+     AV SD7x7) (/ SD3x3 AVG9x9)))))) AVG3x3))
+     (/ (MAX (MIN AVG7x7 AV) (SIN (+ (- (* SD3x3
+         AVG7x7) (/ (- AV (* AVG3x3 SD9x9)) AVG3x3))
+         (* AVG7x7 SD7x7)))) (+ SD3x3 AVG3x3)))
+
+Generation: 16
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9375
+Tree 0:
+ (- (SIN (/ (- AV (/ (MAX (MIN AVG7x7 AV)
+     (/ (MAX (MIN AVG7x7 AV) (/ (- AV (* AVG3x3
+         SD9x9)) AVG3x3)) (+ SD3x3 AVG3x3))) (+ SD3x3
+     AVG3x3))) AVG3x3)) (/ (MAX (MIN AVG7x7 AV)
+     (SIN (+ (- (* SD3x3 AVG7x7) (* SD3x3 AVG9x9))
+         (+ (/ (+ (SIN SD7x7) (MIN SD7x7 (/ (- AVG3x3
+             AVG7x7) (MAX AV AV)))) (/ SD3x3 SD3x3)) (MAX
+             (COS SD3x3) (MIN AVG3x3 SD9x9)))))) (+ SD3x3
+     AVG3x3)))
+
+Generation: 17
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.93958336
+Tree 0:
+ (- (* (- (MAX AV SD3x3) (MIN (/ AV AVG7x7)
+     (- (COS SD3x3) (COS SD3x3)))) (MAX (+ (*
+     SD3x3 SD3x3) (- (SIN SD3x3) (+ AVG3x3 AVG7x7)))
+     (SIN (- SD3x3 AVG9x9)))) (* AVG7x7 AV))
+
+Generation: 18
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.93958336
+Tree 0:
+ (* (COS (- AVG9x9 AVG9x9)) (- (- (MIN AV
+     SD3x3) (/ AV SD3x3)) (/ (+ (MAX AVG9x9 SD7x7)
+     (+ SD9x9 AVG9x9)) SD3x3)))
+
+Generation: 19
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.93958336
+Tree 0:
+ (* (+ (MIN AV SD3x3) (MAX AVG9x9 (MIN (-
+     (- (SIN (/ (- AV (/ SD3x3 SD3x3)) AVG3x3))
+         (MIN SD9x9 (SIN (MAX AVG9x9 SD7x7)))) AVG9x9)
+     (- AVG3x3 (COS (SIN SD9x9)))))) (- (- (MIN
+     AV SD3x3) (/ AV SD3x3)) (/ (+ (MAX AVG9x9
+     SD7x7) (+ (COS (SIN (MIN (COS (MAX (- AVG9x9
+     AVG9x9) (MIN AVG3x3 (- AV (* AVG3x3 SD9x9)))))
+     (COS (* (- AV SD7x7) (/ SD3x3 AVG9x9))))))
+     AVG9x9)) SD3x3)))
+
+Generation: 20
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.93958336
+Tree 0:
+ (* (+ (MIN AV SD3x3) (MAX (SIN (+ (COS SD3x3)
+     (COS (SIN (MIN (- AV SD7x7) (/ (* SD3x3 AVG9x9)
+         (/ SD3x3 SD3x3))))))) (MIN (MAX AVG9x9 (MIN
+     (/ (- AV SD7x7) (MAX AV AVG9x9)) (MAX (+
+     (* SD3x3 SD3x3) (- (- (MIN SD3x3 AV) (+ (+
+     (/ (COS AVG3x3) AVG3x3) (/ AV SD3x3)) (/
+     (- AV (SIN (COS (- AVG9x9 AVG9x9)))) AVG3x3)))
+     (+ AVG3x3 AVG7x7))) (SIN (- SD3x3 AVG9x9)))))
+     (- AVG3x3 (COS (SIN SD9x9)))))) (- (- (MIN
+     AV SD3x3) (/ AV SD3x3)) (/ (+ (MAX AVG9x9
+     SD7x7) (+ SD9x9 AVG9x9)) SD3x3)))
+
+Generation: 21
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.93958336
+Tree 0:
+ (* (+ (MIN AV SD3x3) (MAX AVG9x9 (MIN (MAX
+     AVG3x3 (MIN (/ (MIN (/ SD9x9 AVG9x9) (+ SD9x9
+     AVG9x9)) (MAX (MAX AVG9x9 (- (- (/ SD9x9
+     AVG9x9) (MIN SD9x9 (SIN (MAX AVG9x9 SD7x7))))
+     AVG9x9)) AVG9x9)) (- AVG3x3 (COS (- AVG7x7
+     AVG3x3))))) (- AVG3x3 (COS (SIN SD9x9))))))
+     (- (- (MIN AV SD3x3) (/ AV SD3x3)) (/ (+
+         (MAX AVG9x9 SD7x7) (+ SD9x9 AVG9x9)) SD3x3)))
+
+Generation: 22
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.93958336
+Tree 0:
+ (* (+ (MIN AV SD3x3) (MAX AVG9x9 (SIN (+
+     (MAX (MIN AVG7x7 AV) (SIN (- (SIN (/ (COS
+         (- AVG9x9 AVG9x9)) AVG3x3)) (/ SD9x9 (+ SD3x3
+         AVG3x3))))) (COS (SIN (MIN (+ (/ (* SD3x3
+     AVG9x9) (MIN SD3x3 AV)) (MAX (COS SD3x3)
+     (MIN AVG3x3 SD9x9))) (COS (* (- AV SD7x7)
+     (/ SD3x3 AVG9x9)))))))))) (- (- (MIN AV SD3x3)
+     (/ AV SD3x3)) (/ (+ (MAX AVG9x9 SD7x7) (+
+     SD9x9 AVG9x9)) SD3x3)))
+
+Generation: 23
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.93958336
+Tree 0:
+ (* (+ (SIN SD9x9) (MAX AVG9x9 (/ (- AV (*
+     SD3x3 AVG9x9)) (* SD3x3 AVG7x7)))) (- (-
+     (MIN AV SD3x3) (/ AV SD3x3)) (/ (+ (MAX AVG9x9
+     AVG9x9) (+ SD9x9 AVG9x9)) SD3x3)))
+
+Generation: 24
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9458333
+Tree 0:
+ (- (* (- (- (MIN SD3x3 AV) (+ (+ (/ AV SD3x3)
+     (/ AV SD3x3)) (/ AV SD3x3))) (MIN (/ AV AVG7x7)
+     (MAX SD9x9 AVG7x7))) (MAX AV (SIN SD3x3)))
+     (MAX (SIN (* AVG7x7 AV)) (* (- AVG7x7 AVG3x3)
+         (- (* (MIN SD3x3 AVG7x7) (- AV AVG9x9)) (MAX
+             (MIN SD3x3 AV) AVG9x9)))))
+
+Generation: 25
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9479167
+Tree 0:
+ (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+     (- (* AVG3x3 (- AV AVG9x9)) (MAX (MIN SD3x3
+         AV) AVG9x9)))) (MIN (- SD3x3 AVG9x9) (/ AV
+     SD3x3))) (MAX (+ (* SD3x3 SD3x3) (- (* (+
+     (MIN AV SD3x3) (MAX AVG9x9 (MIN (MAX AVG9x9
+     (MAX SD9x9 (/ AVG3x3 SD3x3))) (- AVG3x3 (COS
+     (SIN (SIN AVG7x7))))))) (- (- (MIN AV SD3x3)
+     (/ AV SD3x3)) (/ (+ (MAX AVG9x9 SD7x7) (+
+     SD9x9 AVG9x9)) SD3x3))) (+ AVG3x3 AVG7x7)))
+     (SIN (MAX AVG9x9 (SIN AVG7x7))))) (* AVG7x7
+     AV))
+
+Generation: 26
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9479167
+Tree 0:
+ (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+     (- (* AVG3x3 (- AV AVG9x9)) (MAX (MIN SD3x3
+         AV) AVG9x9)))) (MIN (- SD3x3 AVG9x9) (/ AV
+     SD3x3))) (MAX (+ (* SD3x3 SD3x3) (- (* (+
+     (MIN AV SD3x3) (MAX AVG9x9 (MIN (MAX AVG9x9
+     (MAX SD9x9 (/ AVG3x3 SD3x3))) (- AVG3x3 (COS
+     (SIN (SIN AVG7x7))))))) (- (- (MIN AV SD3x3)
+     (/ AV SD3x3)) (/ (+ (MAX AVG9x9 SD7x7) (+
+     SD9x9 AVG9x9)) SD3x3))) (+ AVG3x3 AVG7x7)))
+     (SIN (MAX AVG9x9 (SIN AVG7x7))))) (* AVG7x7
+     AV))
+
+Generation: 27
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9479167
+Tree 0:
+ (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+     (- (* AVG3x3 (- AV AVG9x9)) (MAX (MIN SD3x3
+         AV) AVG9x9)))) (MIN (- SD3x3 AVG9x9) (/ AV
+     SD3x3))) (MAX (+ (* SD3x3 SD3x3) (- (* (+
+     (MIN AV SD3x3) (MAX AVG9x9 (MIN (MAX AVG9x9
+     (MAX SD9x9 (/ AVG3x3 SD3x3))) (- AVG3x3 (COS
+     (SIN (SIN AVG7x7))))))) (- (- (MIN AV SD3x3)
+     (/ AV SD3x3)) (/ (+ (MAX AVG9x9 SD7x7) (+
+     SD9x9 AVG9x9)) SD3x3))) (+ AVG3x3 AVG7x7)))
+     (SIN (MAX AVG9x9 (SIN AVG7x7))))) (* AVG7x7
+     AV))
+
+Generation: 28
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9479167
+Tree 0:
+ (- (* (- (- (MAX AVG9x9 SD7x7) (* (- AVG7x7
+     AVG3x3) (- (* (+ AVG3x3 AVG7x7) (- AV AVG9x9))
+     (MAX (MIN SD3x3 AV) AVG9x9)))) (MIN (- SD3x3
+     AVG9x9) (/ AV SD3x3))) (MAX (* (- (- (MIN
+     SD3x3 AV) (+ (+ (/ AV SD3x3) (/ AV SD3x3))
+     (/ AV SD3x3))) (MIN (/ AV AVG7x7) (- AV (SIN
+     (+ SD3x3 AVG3x3))))) (MAX AV (SIN SD3x3)))
+     (SIN (MAX AVG9x9 (SIN AVG7x7))))) (* AVG7x7
+     AV))
+
+Generation: 29
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9479167
+Tree 0:
+ (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+     (- (* AVG3x3 (- AV AVG9x9)) (MAX (MIN SD3x3
+         AV) AVG9x9)))) (MIN (- SD3x3 AVG9x9) (/ AV
+     SD3x3))) (MAX (+ (* SD3x3 SD3x3) (- (* (+
+     (MIN AV SD3x3) (MAX AVG9x9 (MIN (MAX AVG9x9
+     (MAX SD9x9 (/ AVG3x3 SD3x3))) (- AVG3x3 AVG7x7))))
+     (- (- (MIN AV SD3x3) (/ AV SD3x3)) (/ (+
+         (MAX AVG9x9 SD7x7) (+ SD9x9 AVG9x9)) SD3x3)))
+     (+ AVG3x3 AVG7x7))) (SIN (MAX AVG9x9 (SIN
+     AVG7x7))))) (* AVG7x7 AV))
+
+Generation: 30
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9479167
+Tree 0:
+ (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+     (- (* AVG3x3 (- AV AVG9x9)) (MAX (MIN SD3x3
+         AV) AVG9x9)))) (SIN SD3x3)) (MAX (+ (* SD3x3
+     SD3x3) (- (* (+ (MIN SD3x3 AVG7x7) (MAX AVG9x9
+     (MIN (MAX AVG9x9 (MAX SD9x9 (/ AVG3x3 SD3x3)))
+         (- AVG3x3 (COS (SIN (MAX AVG9x9 (SIN AVG7x7))))))))
+     (- (- (MIN AV SD3x3) (/ AV SD3x3)) (/ (+
+         (MAX AVG9x9 SD7x7) (+ SD9x9 AVG9x9)) SD3x3)))
+     (+ AVG3x3 AVG7x7))) (SIN (MAX AVG9x9 (SIN
+     AVG7x7))))) (* AVG7x7 AV))
+
+Generation: 31
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9479167
+Tree 0:
+ (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+     (- (* AVG3x3 (- AV AVG9x9)) (MAX AVG9x9 AVG9x9))))
+     (MIN (- SD3x3 AVG9x9) (/ AV SD3x3))) (MAX
+     (+ (* SD3x3 SD3x3) (- (* (+ (MIN AV SD3x3)
+         (MAX AVG9x9 (MIN (MAX AVG9x9 (MAX (COS (SIN
+             (MIN (MIN AVG3x3 SD9x9) (/ (SIN SD3x3) (-
+                 SD3x3 AVG9x9))))) (/ AVG3x3 SD3x3))) (- AVG3x3
+             (COS (SIN (SIN AVG7x7))))))) (- (- (MIN AV
+         SD3x3) (/ AV SD3x3)) (/ (+ (MAX AVG9x9 SD7x7)
+         (+ SD9x9 AVG9x9)) SD3x3))) (+ AVG3x3 AVG7x7)))
+     (SIN (MAX AVG9x9 (+ (- (MIN AV SD3x3) (MIN
+         SD3x3 AV)) (- (* (+ (MIN AV SD3x3) (MAX AVG9x9
+         (MIN (MAX AVG9x9 (MAX SD9x9 (/ AVG3x3 SD3x3)))
+             (- AVG3x3 (COS (SIN SD9x9)))))) (- (- (MIN
+         AV SD3x3) (/ AV SD3x3)) (/ (+ (MAX AVG9x9
+         SD7x7) (+ SD9x9 AVG9x9)) SD3x3))) (* AVG7x7
+         SD7x7))))))) (* AVG7x7 AV))
+
+Generation: 32
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.9479167
+Tree 0:
+ (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+     (- (* (* SD3x3 SD3x3) (- AV AVG9x9)) (/ AV
+         SD3x3)))) (MIN AVG3x3 SD9x9)) (MAX (+ (*
+     SD3x3 SD3x3) (- (* (+ (MIN AV SD3x3) (MAX
+     AVG9x9 (MIN (MAX AVG9x9 (MAX (COS (SIN (MIN
+     (MIN AVG3x3 SD9x9) (/ (SIN SD3x3) (/ SD3x3
+     SD3x3))))) (MIN (MAX AVG9x9 (MAX SD9x9 (/
+     (MIN AV SD3x3) SD3x3))) (/ (+ (MAX AVG9x9
+     SD7x7) (+ SD9x9 AVG9x9)) SD3x3)))) (- AVG3x3
+     (COS (SIN (SIN AVG7x7))))))) (- (- (MIN AV
+     SD3x3) (/ AV SD3x3)) (/ (+ (MAX SD3x3 AVG3x3)
+     (+ SD9x9 AVG9x9)) SD3x3))) (+ AVG3x3 AVG7x7)))
+     (SIN (MAX AVG9x9 (SIN AVG7x7))))) (* AVG7x7
+     AV))
+
+Generation: 33
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.95
+Tree 0:
+ (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+     (- (* AVG3x3 (- AV AVG9x9)) (/ SD3x3 SD3x3))))
+     (/ (+ AVG9x9 SD3x3) (+ SD3x3 AVG3x3))) (MAX
+     (+ (* SD3x3 (+ (* SD3x3 SD3x3) (- (* (+ (MIN
+         AV SD3x3) (MIN (MAX AVG9x9 (MAX SD9x9 (MIN
+         AV SD3x3))) (- AVG3x3 (- AVG7x7 AVG3x3))))
+         (- (- (MIN AV SD3x3) (/ AV SD3x3)) (/ (+
+             (MAX AVG9x9 (MIN (MAX AVG9x9 (MAX SD9x9 (/
+                 AVG3x3 SD3x3))) (- AVG3x3 (+ SD9x9 AVG9x9))))
+             (+ SD9x9 AVG9x9)) SD3x3))) (+ AVG3x3 AVG7x7))))
+         (- (* (+ (MIN AV SD3x3) (MAX AVG9x9 (MIN
+             (MAX AVG9x9 (MAX (COS (SIN (MIN AV (/ (SIN
+                 SD3x3) (/ SD3x3 SD3x3))))) (/ AVG3x3 SD3x3)))
+             (- AVG3x3 (COS (SIN (SIN (MAX AVG9x9 (SIN
+                 AVG7x7))))))))) (- (- (MIN AV SD3x3) (/ AV
+             SD3x3)) (/ (* AVG3x3 (- AV AVG9x9)) SD3x3)))
+             (+ AVG3x3 AVG7x7))) (SIN (MAX AVG9x9 (SIN
+     AVG7x7))))) (* AVG7x7 AV))
+
+Generation: 34
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.95208335
+Tree 0:
+ (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+     (- (* (MAX (+ (- (* (- (- (MIN SD3x3 AV)
+         (+ (+ (/ AV SD3x3) (/ AV SD3x3)) (/ AV SD3x3)))
+         (MIN (/ AV AVG7x7) (MAX SD9x9 AVG7x7))) (MAX
+         AV (SIN SD3x3))) (MAX (SIN (MAX (* SD9x9
+         SD7x7) (SIN SD9x9))) (* (- AVG7x7 AVG3x3)
+         (- (* (MIN SD3x3 AVG7x7) (- AV AVG9x9)) (MAX
+             (SIN SD9x9) AVG9x9))))) SD3x3) SD3x3) (-
+         AV AVG9x9)) (MAX (MIN SD3x3 AV) AVG9x9))))
+     (MIN (- SD3x3 AVG9x9) (/ AV SD3x3))) (MAX
+     (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+         (- (* (MIN SD3x3 AVG7x7) (- AV AVG9x9)) (MIN
+             (/ AV AVG7x7) (* SD7x7 AVG7x7))))) (MIN (-
+         SD3x3 AVG9x9) (- AV AVG9x9))) (MAX (+ (*
+         SD3x3 SD3x3) (- (* (+ (MIN AV SD3x3) (MAX
+         AVG9x9 (MIN (MAX AVG9x9 (MAX SD9x9 (/ AVG3x3
+         SD3x3))) (MIN SD3x3 AVG7x7)))) (- (- (MIN
+         AV SD3x3) (/ AV SD3x3)) (/ (+ (MAX AVG9x9
+         SD7x7) (+ SD9x9 AVG9x9)) SD3x3))) (+ AVG3x3
+         AVG7x7))) (SIN (MAX AVG9x9 (SIN AVG7x7)))))
+         (* AVG7x7 AV)) (SIN (MIN SD3x3 AV)))) (*
+     AVG7x7 AV))
+
+Generation: 35
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.95208335
+Tree 0:
+ (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+     (- (* (MAX (+ (- (* (- (- (MIN SD3x3 AV)
+         (+ (+ (/ AV SD3x3) (/ AV SD3x3)) (/ AV SD3x3)))
+         (MIN (/ AV AVG7x7) (MAX SD9x9 AVG7x7))) (MAX
+         AV (SIN SD3x3))) (MAX (SIN (MAX (* SD9x9
+         SD7x7) (SIN SD9x9))) (* (- AVG7x7 AVG3x3)
+         (- (* (MIN SD3x3 AVG7x7) (- AV AVG9x9)) (MAX
+             (MIN AV SD3x3) AVG9x9))))) SD3x3) SD3x3)
+         (- AV AVG9x9)) (MAX (MIN SD3x3 AV) AVG9x9))))
+     (MIN (- SD3x3 AVG9x9) (/ AV SD3x3))) (MAX
+     (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+         (- (* (MIN SD3x3 AVG7x7) (- AV AVG9x9)) (MIN
+             (/ AV AVG7x7) (* SD7x7 AVG7x7))))) (MIN (-
+         SD3x3 AVG9x9) (- AV AVG9x9))) (MAX (+ (*
+         SD3x3 SD3x3) (- (* (+ (MIN AV SD3x3) (MAX
+         AVG9x9 (MIN (MAX AVG9x9 (MAX SD9x9 (/ AVG3x3
+         SD3x3))) (MIN SD3x3 AVG7x7)))) (- (- (MIN
+         AV SD3x3) (/ AV SD3x3)) (/ (+ (MAX AVG9x9
+         SD7x7) (+ SD9x9 AVG9x9)) SD3x3))) (+ AVG3x3
+         AVG7x7))) (SIN (MAX AVG9x9 (SIN AVG7x7)))))
+         (* AVG7x7 AV)) (SIN (MIN SD3x3 AV)))) (*
+     AVG7x7 AV))
+
+Generation: 36
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.95208335
+Tree 0:
+ (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+     (- (* (MAX (+ (- (* (- (- (MIN SD3x3 AV)
+         (+ (+ (/ AV SD3x3) (/ AV SD3x3)) (/ AV SD3x3)))
+         (MIN (/ AV AVG7x7) (MAX SD9x9 AVG7x7))) (MAX
+         AV (SIN SD3x3))) (MAX (SIN (MAX (* SD9x9
+         SD7x7) (SIN SD9x9))) (* (- AVG7x7 AVG3x3)
+         (- (* (MIN SD3x3 AVG7x7) (- AV AVG9x9)) (MAX
+             (SIN SD9x9) AVG9x9))))) SD3x3) SD3x3) (-
+         AV AVG9x9)) (MAX (MIN SD3x3 AV) AVG9x9))))
+     (MIN (- (MIN AV SD3x3) (/ AV SD3x3)) (/ AV
+         SD3x3))) (MAX (- (* (- (- (MIN SD3x3 AV)
+     (* (- AVG7x7 AVG3x3) (- (* (MIN SD3x3 AVG7x7)
+         (- AV AVG9x9)) (MIN (/ AV AVG7x7) (* SD7x7
+         AVG7x7))))) (MIN (- SD3x3 AVG9x9) (- AV (-
+     (SIN (MIN AV SD3x3)) (/ (MIN SD3x3 AV) SD3x3)))))
+     (MAX (+ (* SD3x3 SD3x3) (- (* (+ (MIN AV
+         SD3x3) (MAX AVG9x9 (MIN (MAX AVG9x9 (MAX
+         SD9x9 (/ AVG3x3 SD3x3))) (MIN SD3x3 AVG7x7))))
+         (- (- (MIN AV SD3x3) (/ AV SD3x3)) (/ (+
+             (MAX AVG9x9 SD7x7) (+ SD9x9 AVG9x9)) SD3x3)))
+         (+ AVG3x3 AVG7x7))) (SIN (MAX AVG9x9 (SIN
+         AVG7x7))))) (* AVG7x7 AV)) (SIN (MIN SD3x3
+     AV)))) (* AVG7x7 AV))
+
+Generation: 37
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.95208335
+Tree 0:
+ (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+     (- (* (MAX (+ (- (* (- (- (MIN SD3x3 AV)
+         (+ (+ (/ AV SD3x3) (/ AV SD3x3)) (/ AV SD3x3)))
+         (MIN (/ AV AVG7x7) (MAX SD9x9 AVG7x7))) (MAX
+         AV (SIN (/ AV SD3x3)))) (MAX (SIN (MAX (*
+         SD9x9 SD7x7) (SIN SD9x9))) (* (- AVG7x7 AVG3x3)
+         (- (* (MIN SD3x3 AVG7x7) (- AV AVG9x9)) (MAX
+             (MIN AV SD3x3) AVG9x9))))) SD3x3) SD3x3)
+         (- AV AVG9x9)) (MAX (MIN SD3x3 AV) AVG9x9))))
+     (MIN (- SD3x3 AVG9x9) (/ AV SD3x3))) (MAX
+     (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+         (- (* (MIN SD3x3 AVG7x7) (- AV AVG9x9)) (MIN
+             (/ AV AVG7x7) (* SD7x7 AVG7x7))))) (MIN (-
+         SD3x3 AVG9x9) (- AV AVG9x9))) (MAX (+ (*
+         SD3x3 SD3x3) (- (* (+ (MIN AV SD3x3) (MAX
+         AVG9x9 (MIN (MAX AVG9x9 (MAX SD9x9 (/ AVG3x3
+         SD3x3))) (MIN SD3x3 AVG7x7)))) (- (- (MIN
+         AV SD3x3) (/ AV SD3x3)) (/ (+ (MAX AVG9x9
+         SD7x7) (+ SD9x9 AVG9x9)) SD3x3))) (+ AVG3x3
+         AVG7x7))) (SIN (MAX AVG9x9 (SIN AVG7x7)))))
+         (* AVG7x7 AV)) (SIN (MIN SD3x3 AV)))) (*
+     AVG7x7 AV))
+
+Generation: 38
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.95208335
+Tree 0:
+ (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+     (- (* (MAX (+ (- (* (- (- (MIN SD3x3 AV)
+         (+ (+ (/ AV SD3x3) (/ AV SD3x3)) (/ AV SD3x3)))
+         (MIN (/ AV AVG7x7) (MAX SD9x9 AVG7x7))) (MAX
+         AV (SIN SD3x3))) (MAX (SIN (MAX (* SD9x9
+         SD7x7) (SIN SD9x9))) (* (- AVG7x7 AVG3x3)
+         (- (* (MIN SD3x3 AVG7x7) (- AV AVG9x9)) (MAX
+             (MIN AV SD3x3) AVG9x9))))) SD3x3) SD3x3)
+         (- AV AVG9x9)) (MAX (MIN SD3x3 AV) AVG9x9))))
+     (MIN (- SD3x3 AVG9x9) (/ AV SD3x3))) (MAX
+     (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+         (- (* (MIN SD3x3 AVG7x7) (- AV AVG9x9)) (MIN
+             (/ AV AVG7x7) (* SD7x7 AVG7x7))))) (MIN (-
+         SD3x3 AVG9x9) (- AV AVG9x9))) (MAX (+ (*
+         SD3x3 (+ (MIN AV SD3x3) (MIN SD3x3 (MIN (+
+         (/ (* SD3x3 AVG9x9) (/ SD3x3 SD3x3)) (MAX
+         (+ (MAX AVG9x9 SD7x7) (- (* SD3x3 AVG7x7)
+             (* SD3x3 AVG9x9))) (MIN AVG3x3 SD9x9))) (COS
+         (* SD9x9 (/ SD3x3 AVG9x9))))))) (- (* (+
+         (MIN AV SD3x3) (MAX AVG9x9 (MIN (MAX AVG9x9
+         (MAX SD9x9 (/ AVG3x3 SD3x3))) (MIN SD3x3
+         AVG7x7)))) (- (- (MIN AV SD3x3) (/ AV SD3x3))
+         (/ (+ (MAX AVG9x9 SD7x7) (+ SD9x9 AVG9x9))
+             SD3x3))) (+ AVG3x3 AVG7x7))) (SIN (MAX AVG9x9
+         (SIN AVG7x7))))) (* AVG7x7 AV)) (SIN (MIN
+     SD3x3 AV)))) (* AVG7x7 AV))
+
+Generation: 39
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.95208335
+Tree 0:
+ (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+     (- (* (MAX (+ (- (* (- (- (MIN SD3x3 AV)
+         (+ (+ (/ AV SD3x3) (/ AV SD3x3)) (/ AV SD3x3)))
+         (MIN (/ AV AVG7x7) (MAX SD9x9 AVG7x7))) (MAX
+         AV (SIN SD3x3))) (MAX (SIN (MAX (* SD9x9
+         SD7x7) (SIN SD9x9))) (* (- AVG7x7 AVG3x3)
+         (- (* (MIN SD3x3 AVG7x7) (- AV AVG9x9)) (MAX
+             (MIN AV SD3x3) AVG9x9))))) SD3x3) SD3x3)
+         (- AV AVG9x9)) (COS (/ AV SD3x3))))) (MIN
+     (- SD3x3 AVG9x9) (/ AV SD3x3))) (MAX (- (*
+     (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+         (- (* (MIN SD3x3 AVG7x7) (- AV AVG9x9)) (MIN
+             (/ AV AVG7x7) (* SD7x7 AVG7x7))))) (MIN (-
+         SD3x3 AVG9x9) (- AV AVG9x9))) (MAX (+ (*
+     SD3x3 SD3x3) (- (* (+ (MIN AV SD3x3) (MAX
+     AVG9x9 (MIN (MIN (MAX (* AVG3x3 (- AV AVG9x9))
+     (MAX SD9x9 (/ AVG3x3 SD3x3))) (- AVG3x3 (+
+     SD9x9 AVG9x9))) (MIN SD3x3 AVG7x7)))) (-
+     (- (MIN AV SD3x3) (/ AV SD3x3)) (/ (+ (MAX
+     AVG9x9 SD7x7) (+ SD9x9 AVG9x9)) SD3x3)))
+     (+ AVG3x3 AVG7x7))) (SIN (MAX AVG9x9 (SIN
+     AVG7x7))))) (* AVG7x7 AV)) (SIN (MIN SD3x3
+     AV)))) (* AVG7x7 AV))
+
+Generation: 40
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.95208335
+Tree 0:
+ (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+     (- (* (MAX (+ (- (* (- (- (MIN SD3x3 AV)
+         (+ (+ (/ AV SD3x3) (/ AV SD3x3)) (/ AV SD3x3)))
+         (MIN (/ AV AVG7x7) (MAX SD9x9 AVG7x7))) (MAX
+         AV (SIN SD3x3))) (MAX (SIN (MAX (* SD9x9
+         SD7x7) (SIN SD9x9))) (* (- AVG7x7 AVG3x3)
+         (- (* (MIN SD3x3 AVG7x7) (- AV AVG9x9)) (MAX
+             (MIN AV SD3x3) AVG9x9))))) SD3x3) SD3x3)
+         (- AV AVG9x9)) (MAX (MIN SD3x3 AV) AVG9x9))))
+     (MIN (- SD3x3 AVG9x9) (/ AV SD3x3))) (MAX
+     (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+         (- (* (MIN SD3x3 AVG7x7) (- AV AVG9x9)) (MIN
+             (/ AV AVG7x7) (* SD7x7 AVG7x7))))) (MIN (-
+         SD3x3 AVG9x9) (- AV AVG9x9))) (MAX (+ (*
+         SD3x3 SD3x3) (- (* (+ (MIN AV SD3x3) (MAX
+         AVG9x9 (MIN (MAX AVG9x9 (MAX SD9x9 (/ AVG3x3
+         SD3x3))) (MIN SD3x3 AVG7x7)))) (- (- (MIN
+         AV SD3x3) (/ AV SD3x3)) (/ (+ (MAX AVG9x9
+         SD7x7) (+ SD9x9 AVG9x9)) SD3x3))) (+ AVG3x3
+         AVG7x7))) (SIN (MAX AVG9x9 (/ AV AVG7x7)))))
+         (* AVG7x7 AV)) (SIN (MIN SD3x3 AV)))) (*
+     AVG7x7 AV))
+
+Generation: 41
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.95208335
+Tree 0:
+ (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+     (- (* (MAX (+ (- (* (- (- (MIN SD3x3 AV)
+         (+ (+ (/ AV SD3x3) (/ AV SD3x3)) (/ AV SD3x3)))
+         (MIN (/ AV AVG7x7) (MAX SD9x9 AVG7x7))) (MAX
+         AV (SIN SD3x3))) (MAX (SIN (MAX (* SD9x9
+         SD7x7) (SIN SD9x9))) (* (- AVG7x7 AVG3x3)
+         (- (* (MIN SD3x3 AVG7x7) (- AV AVG9x9)) (MAX
+             (MIN AV SD3x3) AVG9x9))))) SD3x3) SD3x3)
+         (- AV AVG9x9)) (MAX (MIN SD3x3 AV) AVG9x9))))
+     (MIN (- SD3x3 AVG9x9) (/ AV SD3x3))) (MAX
+     (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+         (- (* (MIN SD3x3 AVG7x7) (- AV AVG9x9)) (MIN
+             (/ AV AVG7x7) (* SD7x7 AVG7x7))))) (MIN (-
+         SD3x3 AVG9x9) (- AV AVG9x9))) (MAX (+ (*
+         SD3x3 (+ (MIN AV SD3x3) (MIN SD3x3 (SIN (SIN
+         AVG7x7))))) (- (* (+ (MIN AV SD3x3) (MAX
+         AVG9x9 (MIN (MAX AVG9x9 (MAX SD9x9 (/ AVG3x3
+         SD3x3))) (MIN SD3x3 AVG7x7)))) (- (- (MIN
+         AV SD3x3) (/ AV SD3x3)) (/ (+ (MAX AVG9x9
+         SD7x7) (+ SD9x9 AVG9x9)) SD3x3))) (+ AVG3x3
+         AVG7x7))) (SIN (MAX AVG9x9 (SIN AVG7x7)))))
+         (* AVG7x7 AV)) (SIN (MIN SD3x3 AV)))) (*
+     AVG7x7 AV))
+
+Generation: 42
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.95208335
+Tree 0:
+ (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+     (- (* (MAX (+ (- (* (- (- (MIN SD3x3 AV)
+         (+ (+ (/ AV SD3x3) (/ AV SD3x3)) (/ AV SD3x3)))
+         (MIN (/ AV AVG7x7) (MAX SD9x9 AVG7x7))) (MAX
+         AV (SIN SD3x3))) (MAX AV (* (- AVG7x7 AVG3x3)
+         (- (* (MIN SD3x3 AVG7x7) (- AV AVG9x9)) (MAX
+             (SIN SD9x9) AVG9x9))))) SD3x3) SD3x3) (-
+         AV AVG9x9)) (MAX (MIN SD3x3 AV) AVG9x9))))
+     (MIN (- (MIN AV SD3x3) (/ AV SD3x3)) (MAX
+         (* (- AVG7x7 (/ (SIN AVG7x7) (MAX SD9x9 AVG7x7)))
+             (- (* (MIN SD3x3 AVG7x7) (- AV AVG9x9)) (MAX
+                 (SIN SD9x9) AVG9x9))) AVG9x9))) (MAX (- (*
+     (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+         (- (* (MIN SD3x3 AVG7x7) (- AV AVG9x9)) (MIN
+             (/ AV AVG7x7) (* SD7x7 AVG7x7))))) (MIN (-
+         SD3x3 AVG9x9) (- AV AVG9x9))) (MAX (+ (*
+     SD3x3 SD3x3) (- (* (+ (MIN AV SD3x3) (MAX
+     AVG9x9 (MIN (/ AV AVG7x7) (* SD7x7 AVG7x7))))
+     (- (- (MIN AV SD3x3) (/ AV SD3x3)) (/ (+
+         (MAX AVG9x9 SD7x7) (+ SD9x9 AVG9x9)) SD3x3)))
+     (+ AVG3x3 AVG7x7))) (SIN (MAX AVG9x9 (SIN
+     AVG7x7))))) (* AVG7x7 AV)) (SIN (MIN SD3x3
+     AV)))) (* AVG7x7 AV))
+
+Generation: 43
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.95416665
+Tree 0:
+ (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+     (- (* (MAX (+ (- (* (- (- (MIN SD3x3 AV)
+         (+ (+ (/ AV SD3x3) (/ AV SD3x3)) (/ AV SD3x3)))
+         (MIN (/ AV AVG7x7) (MAX SD9x9 (- AV AVG9x9))))
+         (MAX AV (SIN SD3x3))) (MAX (SIN (MAX (* SD9x9
+         SD7x7) (SIN SD9x9))) (* (MIN SD3x3 AV) (-
+         (* (MIN SD3x3 AV) (- AV AVG9x9)) (MAX (SIN
+         SD9x9) AVG9x9))))) SD3x3) SD3x3) (- AV AVG9x9))
+         (+ AVG3x3 AV)))) (MIN (- SD3x3 AVG9x9) (/
+     AV SD3x3))) (MAX (+ (* SD3x3 SD3x3) (- (*
+     (MAX AVG9x9 (/ AV SD3x3)) (- (SIN (MIN AV
+     SD3x3)) (/ SD3x3 (MIN SD3x3 AVG7x7)))) (+
+     AVG3x3 AVG7x7))) (SIN (MAX AVG9x9 (* (MIN
+     SD3x3 (* (MIN SD3x3 AVG7x7) (- AV AVG9x9)))
+     (- AV AVG9x9)))))) (* AVG7x7 AV))
+
+Generation: 44
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.95416665
+Tree 0:
+ (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3)
+     (- (* (MAX (+ (- (* (- (- (MIN SD3x3 AV)
+         (+ (+ (/ AV SD3x3) (/ AV SD3x3)) (/ AV SD3x3)))
+         (MIN (/ AV AVG7x7) (MAX SD9x9 (- AV AVG9x9))))
+         (MAX AV (SIN SD3x3))) (MAX (SIN (MAX (* SD9x9
+         SD7x7) (SIN SD9x9))) (* (MIN SD3x3 AV) (-
+         (* (MIN SD3x3 AV) (- AV AVG9x9)) (MAX (SIN
+         SD9x9) AVG9x9))))) SD3x3) SD3x3) (- AV AVG9x9))
+         (+ AVG3x3 AV)))) (MIN (- SD3x3 AVG9x9) (/
+     AV SD3x3))) (MAX (+ (* SD3x3 SD3x3) (- (*
+     (MAX AVG9x9 (/ AV SD3x3)) (- (SIN (MIN AV
+     SD3x3)) (/ SD3x3 (MIN SD3x3 AVG7x7)))) (+
+     AVG3x3 AVG7x7))) (SIN (MAX AVG9x9 (* (MIN
+     SD3x3 (* (MIN SD3x3 AVG7x7) (- AV AVG9x9)))
+     (+ (MIN AV SD3x3) (MAX AVG9x9 (MIN (MAX AVG9x9
+         (MAX SD9x9 (/ AVG3x3 SD3x3))) (MIN SD3x3
+         AVG7x7))))))))) (* AVG7x7 AV))
+
+Generation: 45
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.95625
+Tree 0:
+ (- (* (- (- (MIN SD3x3 (+ (- (* (- (- (MIN
+     SD3x3 AV) (+ (+ (/ AV SD3x3) (/ AV SD3x3))
+     (/ AV SD3x3))) (MIN (SIN AV) (MAX SD9x9 AVG7x7)))
+     (MAX AV (SIN SD3x3))) (MAX (SIN (MAX (* SD9x9
+     SD7x7) (SIN SD9x9))) (* (- AVG7x7 AVG3x3)
+     (- (* AVG3x3 (- AV AVG9x9)) (MAX (SIN SD9x9)
+         AVG9x9))))) SD3x3)) (* (- AVG7x7 AVG3x3)
+     (- (* (MAX (+ (- (* (- (- (MIN SD3x3 AV)
+         (+ (+ (/ AV SD3x3) (/ AV SD3x3)) (/ AV SD3x3)))
+         (MIN (/ AV AVG7x7) (MAX SD9x9 AVG7x7))) (MAX
+         AV (SIN SD3x3))) (MAX (SIN (MAX (* SD9x9
+         SD7x7) (SIN SD9x9))) (* (- AVG7x7 AVG3x3)
+         (- (* (MIN SD3x3 AVG7x7) (- AV AVG9x9)) (MAX
+             (SIN SD9x9) AVG9x9))))) SD3x3) SD3x3) (-
+         AV AVG9x9)) (MAX (MIN SD3x3 AV) AVG9x9))))
+     (* (- AVG7x7 AVG3x3) (- (* (MIN SD3x3 AVG7x7)
+         (- AV AVG9x9)) (MAX (SIN SD9x9) AVG9x9))))
+     (MAX (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7
+         AVG3x3) (- (* SD3x3 (- AV AVG9x9)) (MIN (/
+         AV SD3x3) (* SD7x7 AVG7x7))))) (MIN (- SD3x3
+         AVG9x9) (- AV AVG9x9))) (MAX (+ (* SD3x3
+         SD3x3) (- (* (- AVG3x3 (COS (SIN SD9x9)))
+         (- (SIN (MIN AV SD3x3)) (/ SD3x3 SD3x3)))
+         (+ AVG3x3 AVG7x7))) (SIN (MAX AVG9x9 (SIN
+         AVG7x7))))) (* AVG7x7 AV)) (SIN (MIN SD3x3
+         AV)))) (* AVG7x7 AV))
+
+Generation: 46
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.95625
+Tree 0:
+ (- (* (- (- (MIN SD3x3 (+ (- (* (- (- (MIN
+     SD3x3 AV) (+ (+ (/ AV SD3x3) (/ AV SD3x3))
+     (/ AV SD3x3))) (MIN (SIN AV) (MAX SD9x9 AVG7x7)))
+     (MAX AV (SIN SD3x3))) (MAX (SIN (MAX (* SD9x9
+     SD7x7) (SIN SD9x9))) (* (- AVG7x7 AVG3x3)
+     (- (* AVG3x3 (- AV AVG9x9)) (- AV AVG9x9)))))
+     SD3x3)) (* (- AVG7x7 AVG3x3) (- (* (MAX (+
+     (- (* (- (- (MIN SD3x3 AV) (+ (+ (/ AV SD3x3)
+         (/ AV SD3x3)) (/ AV SD3x3))) (MIN (/ AV AVG7x7)
+         (MAX SD9x9 AVG7x7))) (MAX AV (SIN SD3x3)))
+         (MAX (SIN (MAX (* SD9x9 SD7x7) (SIN SD9x9)))
+             (* (- AVG7x7 AVG3x3) (- (* (MIN SD3x3 AVG7x7)
+                 (- AV AVG9x9)) (MAX (SIN SD9x9) AVG9x9)))))
+     SD3x3) SD3x3) (- AV AVG9x9)) (MAX (MIN SD3x3
+     AV) AVG9x9)))) (* (- AVG7x7 AVG3x3) (- (*
+     (MIN SD3x3 AVG7x7) (- AV AVG9x9)) (MAX (SIN
+     SD9x9) AVG9x9)))) (MAX (- (* (- (- (MIN SD3x3
+     AV) (* (- AVG7x7 AVG3x3) (- (* SD3x3 (- AV
+     AVG9x9)) (MIN (/ AV SD3x3) (* SD7x7 AVG7x7)))))
+     (MIN (- SD3x3 AVG9x9) (- AV AVG9x9))) (MAX
+     (+ (* SD3x3 SD3x3) (- (* (- AVG3x3 (COS (SIN
+         SD9x9))) (- (SIN (MIN AV SD3x3)) (/ SD3x3
+         SD3x3))) (+ AVG3x3 AVG7x7))) (SIN (MAX AVG9x9
+     (SIN AVG7x7))))) (* AVG7x7 AV)) (SIN (MIN
+     SD3x3 AV)))) (* AVG7x7 AV))
+
+Generation: 47
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.95625
+Tree 0:
+ (- (* (- (- (MIN SD3x3 (+ (- (* (- (- (MIN
+     SD3x3 AV) (+ (+ (/ AV SD3x3) (/ AV SD3x3))
+     (/ AV SD3x3))) (MIN (SIN AV) (MAX SD9x9 AVG7x7)))
+     (MAX AV (SIN SD3x3))) (MAX (SIN (MAX (* SD9x9
+     SD7x7) (SIN SD9x9))) (* (- AVG7x7 AVG3x3)
+     (- (* AVG3x3 (- AV AVG9x9)) (MAX (SIN SD9x9)
+         AVG9x9))))) SD3x3)) (* (- AVG7x7 AVG3x3)
+     (- (* (MAX (+ (- (* (- (- (MIN SD3x3 AV)
+         (+ (+ (/ AV SD3x3) (/ AV SD3x3)) (/ AV SD3x3)))
+         (MIN (/ AV AVG7x7) (MAX SD9x9 AVG7x7))) (MAX
+         AV (SIN SD3x3))) (MAX (SIN (MAX (* SD9x9
+         SD7x7) (SIN SD9x9))) (* (- AVG7x7 AVG3x3)
+         (- (* (MIN SD3x3 AVG7x7) (- AV AVG9x9)) (MAX
+             (SIN SD9x9) AVG9x9))))) SD3x3) SD3x3) (-
+         AV AVG9x9)) (MAX (MIN SD3x3 AV) AVG9x9))))
+     (* (- AVG7x7 AVG3x3) (- (* (MIN SD3x3 AVG7x7)
+         (- AV AVG9x9)) (MAX (SIN SD9x9) AVG9x9))))
+     (MAX (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7
+         AVG3x3) (- (* SD3x3 (- AV AVG9x9)) (MIN (/
+         AV SD3x3) (* SD7x7 AVG7x7))))) (MIN (- SD3x3
+         AVG9x9) (- AV AVG9x9))) (MAX (+ (* SD3x3
+         SD3x3) (- (* (- AVG3x3 (COS (SIN SD9x9)))
+         (- (SIN (MIN AV SD3x3)) (/ SD3x3 SD3x3)))
+         (+ AVG3x3 AVG7x7))) (SIN (MAX AVG9x9 (SIN
+         AVG7x7))))) (* AVG7x7 AV)) (SIN (MIN SD3x3
+         AV)))) (* AVG7x7 AV))
+
+Generation: 48
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.95625
+Tree 0:
+ (- (* (- (- (MIN SD3x3 (+ (- (* (- (- (MIN
+     SD3x3 AV) (+ (+ (/ AV SD3x3) (- SD3x3 AVG9x9))
+     (/ AV SD3x3))) (MIN (SIN AV) (MAX SD9x9 AVG7x7)))
+     (MAX AV (SIN SD3x3))) (MAX (SIN (MAX (* SD9x9
+     SD7x7) (SIN SD9x9))) (* (- AVG7x7 AVG3x3)
+     (- (* AVG3x3 (- AV AVG9x9)) (MAX (SIN SD9x9)
+         AVG9x9))))) SD3x3)) (* (- AVG7x7 AVG3x3)
+     (- (* (MAX (+ (- (* (- (- (MIN SD3x3 AV)
+         (+ (+ (/ AV SD3x3) (/ AV SD3x3)) (/ AV SD3x3)))
+         (MIN (/ AV AVG7x7) (MAX SD9x9 AVG7x7))) (MAX
+         AV (SIN SD3x3))) (MAX (SIN (MAX (SIN SD3x3)
+         (SIN SD9x9))) (* (- AVG7x7 AVG3x3) (- (*
+         (MIN SD3x3 AVG7x7) (- AV AVG9x9)) (MAX (SIN
+         SD9x9) AVG9x9))))) SD3x3) SD3x3) (- AV AVG9x9))
+         (MAX (MIN SD3x3 AV) AVG9x9)))) (* (- AVG7x7
+     AVG3x3) (- (* (MIN SD3x3 AVG7x7) (- AV AVG9x9))
+     (MAX (SIN SD9x9) AVG9x9)))) (MAX (- (* (-
+     (- (MIN SD3x3 AV) (* (- AVG7x7 AVG3x3) (-
+         (* SD3x3 (- AV AVG9x9)) (MIN (/ AV SD3x3)
+         (* SD7x7 AVG7x7))))) (MIN (- SD3x3 AVG9x9)
+     (- AV AVG9x9))) (MAX (+ (* SD3x3 SD3x3) (-
+     (* (- AVG3x3 (COS (SIN SD9x9))) (- (SIN (MIN
+         AV SD3x3)) (/ SD3x3 SD3x3))) (+ AVG3x3 AVG7x7)))
+     (SIN (MAX AVG9x9 (SIN AVG7x7))))) (* AVG7x7
+     AV)) (SIN (MIN SD3x3 AV)))) (* AVG7x7 AV))
+
+Generation: 49
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.95625
+Tree 0:
+ (- (* (- (- (MIN SD3x3 (+ (- (* (- (- (MIN
+     SD3x3 AV) (+ (+ (/ AV SD3x3) (/ AV SD3x3))
+     (/ AV SD3x3))) (MIN (SIN AV) (MAX SD9x9 AVG7x7)))
+     (MAX AV (SIN SD3x3))) (MAX (SIN (MAX (* SD9x9
+     SD7x7) (SIN SD9x9))) (* (- AVG7x7 AVG3x3)
+     (- (* AVG3x3 (- AV AVG9x9)) (MAX (SIN SD9x9)
+         AVG9x9))))) SD3x3)) (* (- AVG7x7 AVG3x3)
+     (- (* (MAX (+ (- (* (- (- (MIN SD3x3 AV)
+         (+ (+ (/ AV SD3x3) (/ AV SD3x3)) (/ AV SD3x3)))
+         (MIN (/ AV AVG7x7) (MAX SD9x9 AVG7x7))) (MAX
+         AV (SIN SD3x3))) (MAX (SIN (MAX (* SD9x9
+         SD7x7) (/ AV SD3x3))) (* (- AVG7x7 AVG3x3)
+         (- (* (MIN SD3x3 AVG7x7) (- AV AVG9x9)) (MAX
+             (SIN SD9x9) AVG9x9))))) SD3x3) SD3x3) (-
+         AV AVG9x9)) (MAX (MIN SD3x3 AV) AVG9x9))))
+     (* (- AVG7x7 AVG3x3) (- (* (MIN SD3x3 AVG7x7)
+         (- AV AVG9x9)) (MAX (SIN SD9x9) AVG9x9))))
+     (MAX (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7
+         AVG3x3) (- (* SD3x3 (- AV AVG9x9)) (MIN (/
+         AV SD3x3) (* SD7x7 AVG7x7))))) (MIN (- SD3x3
+         AVG9x9) (- AV AVG9x9))) (MAX (+ (* SD3x3
+         SD3x3) (- (* (- AVG3x3 (COS (SIN SD9x9)))
+         (- (SIN (MIN AV SD3x3)) (/ SD3x3 SD3x3)))
+         (+ AVG3x3 AVG7x7))) (MAX (+ (* SD3x3 SD3x3)
+         (- (* (- AVG3x3 (COS (SIN SD9x9))) (- (SIN
+             (MIN AV SD3x3)) (/ SD3x3 SD3x3))) (+ AVG3x3
+             AVG7x7))) (SIN (MAX AVG9x9 (SIN AVG7x7))))))
+         (* AVG7x7 AV)) (SIN (MIN SD3x3 AV)))) (*
+     AVG7x7 AV))
+
+Generation: 50
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.95625
+Tree 0:
+ (- (* (- (- (MIN SD3x3 (+ (- (* (- (- (MIN
+     SD3x3 AV) (+ (+ (/ AV SD3x3) (/ AV SD3x3))
+     (/ AV SD3x3))) (MIN (SIN AV) (MAX SD9x9 AVG7x7)))
+     (MAX AV (SIN SD3x3))) (MAX (SIN AVG9x9) (*
+     (- AVG7x7 AVG3x3) (- (* AVG3x3 (- AV AVG9x9))
+     (MAX (SIN SD9x9) AVG9x9))))) SD3x3)) (* (-
+     AVG7x7 AVG3x3) (- (* (MAX (+ (- (* (- (-
+     (MIN SD3x3 AV) (+ (+ (/ AV SD3x3) (/ AV SD3x3))
+     (/ AV SD3x3))) (MIN (/ AV AVG7x7) (MAX SD9x9
+     AVG7x7))) (MAX AV (SIN SD3x3))) (MAX (SIN
+     (MAX (* SD9x9 SD7x7) (SIN SD9x9))) (* (-
+     AVG7x7 AVG3x3) (- (* (MIN SD3x3 AVG7x7) (-
+     AV AVG9x9)) (MAX (SIN SD9x9) AVG9x9)))))
+     SD3x3) SD3x3) (- AV AVG9x9)) AVG7x7))) (*
+     (- AVG7x7 AVG3x3) (- (* (MIN SD3x3 AVG7x7)
+     (- AV AVG9x9)) (MAX (SIN SD9x9) AVG9x9))))
+     (MAX (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7
+         AVG3x3) (- (* SD3x3 (- AV AVG9x9)) (MIN (/
+         AV SD3x3) (* SD7x7 AVG7x7))))) (MIN (- SD3x3
+         AVG9x9) (- AV AVG9x9))) (MAX (+ (* SD3x3
+         SD3x3) (- (* (- AVG3x3 (COS (SIN SD9x9)))
+         (- (SIN (MIN AV SD3x3)) (/ SD3x3 SD3x3)))
+         (+ AVG3x3 AVG7x7))) (SIN (MAX AVG9x9 (SIN
+         AVG7x7))))) (* AVG7x7 AV)) (SIN (MIN SD3x3
+         AV)))) (* AVG7x7 AV))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.95625
+Tree 0:
+ (- (* (- (- (MIN SD3x3 (+ (- (* (- (- (MIN
+     SD3x3 AV) (+ (+ (/ AV SD3x3) (/ AV SD3x3))
+     (/ AV SD3x3))) (MIN (SIN AV) (MAX SD9x9 AVG7x7)))
+     (MAX AV (SIN SD3x3))) (MAX (SIN (MAX (* SD9x9
+     SD7x7) (SIN SD9x9))) (* (- AVG7x7 AVG3x3)
+     (- (* AVG3x3 (- AV AVG9x9)) (MAX (SIN SD9x9)
+         AVG9x9))))) SD3x3)) (* (- AVG7x7 AVG3x3)
+     (- (* (MAX (+ (- (* (- (- (MIN SD3x3 AV)
+         (+ (+ (/ AV SD3x3) (/ AV SD3x3)) (/ AV SD3x3)))
+         (MIN (/ AV AVG7x7) (MAX SD9x9 AVG7x7))) (MAX
+         AV (SIN SD3x3))) (MAX (SIN (MAX (* SD9x9
+         SD7x7) (SIN SD9x9))) (* (- AVG7x7 AVG3x3)
+         (- (* (MIN SD3x3 AVG7x7) (- AV AVG9x9)) (MAX
+             (SIN SD9x9) AVG9x9))))) SD3x3) SD3x3) (-
+         AV AVG9x9)) (MAX (MIN SD3x3 AV) AVG9x9))))
+     (* (- AVG7x7 AVG3x3) (- (* (MIN SD3x3 AVG7x7)
+         (- AV AVG9x9)) (MAX (SIN SD9x9) AVG9x9))))
+     (MAX (- (* (- (- (MIN SD3x3 AV) (* (- AVG7x7
+         AVG3x3) (- (* SD3x3 (- AV AVG9x9)) (MIN (/
+         AV SD3x3) (* SD7x7 AVG7x7))))) (MIN (- SD3x3
+         AVG9x9) (- AV AVG9x9))) (MAX (+ (* SD3x3
+         SD3x3) (- (* (- AVG3x3 (COS (SIN SD9x9)))
+         (- (SIN (MIN AV SD3x3)) (/ SD3x3 SD3x3)))
+         (+ AVG3x3 AVG7x7))) (SIN (MAX AVG9x9 (SIN
+         AVG7x7))))) (* AVG7x7 AV)) (SIN (MIN SD3x3
+         AV)))) (* AVG7x7 AV))

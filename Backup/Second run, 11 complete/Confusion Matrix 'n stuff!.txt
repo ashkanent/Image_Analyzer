@@ -1,0 +1,117 @@
+0
+True Positive: 3.87% - True Negative: 81.72%
+False Positive: 14.18% - False Negative: 0.23%
+94.34% of airplane pixels have been detected.
+Fitness Value: 89.7786960841576
+
+
+
+
+1
+True Positive: 3.98% - True Negative: 78.97%
+False Positive: 16.93% - False Negative: 0.13%
+96.92% of airplane pixels have been detected.
+Fitness Value: 89.63284203118675
+
+
+
+
+2
+True Positive: 4.03% - True Negative: 78.51%
+False Positive: 17.39% - False Negative: 0.08%
+98.15% of airplane pixels have been detected.
+Fitness Value: 90.00570932360516
+
+
+
+
+
+
+3
+True Positive: 3.78% - True Negative: 81.40%
+False Positive: 14.50% - False Negative: 0.32%
+92.24% of airplane pixels have been detected.
+Fitness Value: 88.56122421640048
+
+
+
+
+
+
+4
+True Positive: 3.98% - True Negative: 78.65%
+False Positive: 17.25% - False Negative: 0.12%
+96.98% of airplane pixels have been detected.
+Fitness Value: 89.49757749491205
+
+
+
+
+
+
+
+5
+True Positive: 3.96% - True Negative: 80.80%
+False Positive: 15.10% - False Negative: 0.14%
+96.51% of airplane pixels have been detected.
+Fitness Value: 90.38368232112337
+
+
+
+
+
+
+6
+True Positive: 3.72% - True Negative: 79.78%
+False Positive: 16.12% - False Negative: 0.38%
+90.76% of airplane pixels have been detected.
+Fitness Value: 86.97579558232876
+
+
+
+
+7
+True Positive: 3.99% - True Negative: 79.59%
+False Positive: 16.31% - False Negative: 0.11%
+97.33% of airplane pixels have been detected.
+Fitness Value: 90.1624329878054
+
+
+
+
+
+8.
+True Positive: 4.02% - True Negative: 78.53%
+False Positive: 17.36% - False Negative: 0.08%
+98.05% of airplane pixels have been detected.
+Fitness Value: 89.97201200791879
+
+
+
+
+
+
+9.
+True Positive: 3.86% - True Negative: 78.91%
+False Positive: 16.99% - False Negative: 0.25%
+94.00% of airplane pixels have been detected.
+Fitness Value: 88.13923413063165
+
+
+
+
+10.
+True Positive: 3.95% - True Negative: 79.46%
+False Positive: 16.44% - False Negative: 0.15%
+96.29% of airplane pixels have been detected.
+Fitness Value: 89.57600480914287
+
+
+
+
+
+11.
+True Positive: 4.07% - True Negative: 78.82%
+False Positive: 17.08% - False Negative: 0.03%
+99.18% of airplane pixels have been detected.
+Fitness Value: 90.68690957878438
